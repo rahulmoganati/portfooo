@@ -1,0 +1,15 @@
+*.pem
+.aws/
+terraform.tfstate
+terraform.tfstate.*
+.terraform/
+*.pem
+.aws/
+terraform.tfstate
+terraform.tfstate.*
+.terraform/
+*.pem
+.aws/
+terraform.tfstate
+terraform.tfstate.*
+.terraform/
